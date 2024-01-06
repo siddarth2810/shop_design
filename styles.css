@@ -10,6 +10,15 @@ body{
    border-bottom: #00959e 4px solid;
 }
 
+.btn-light {
+    border: red 2px solid;
+    color: red;
+}
+
+.btn-light:hover {
+    background-color: red !important;
+    color: #fff;
+}
 
 .container-fluid {
     padding-top: 70px;
@@ -128,3 +137,7 @@ padding: 6px;
         margin-top: 13px;
     }
   }
+
+#add-to-cart {
+    margin: 5px 1px;
+}
