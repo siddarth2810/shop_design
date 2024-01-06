@@ -4,6 +4,12 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+.active{
+   border: #00959e 2px solid;
+   border-radius: 5px;
+   border-bottom: #00959e 4px solid;
+}
+
 
 .container-fluid {
     padding-top: 70px;
@@ -69,6 +75,8 @@ background: linear-gradient(to right, #2ebf91, #8360c3); /* W3C, IE 10+/ Edge, F
     color: #f5f5f5;    
 padding: 6px; 
 }
+
+
 
 
 /* newsletter */
