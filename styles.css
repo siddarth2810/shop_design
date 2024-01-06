@@ -1,0 +1,60 @@
+
+body{
+    background-color: #f5f5f5;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.navbar {
+    padding: 15px; 
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    background-color: #fff;
+  
+}
+.navbar-nav  li a:hover {
+    color: #00959e !important;
+}
+
+.nav-item {
+    padding-left: 13px;
+}
+
+#main-image {
+   width: 85%;
+   height: 90%;
+   margin-left: 30px;
+ 
+}
+
+.main-image-content{ 
+    margin-top: 2rem;
+}
+
+.navbar-brand {
+    font-size: 23px;
+    font-weight: 900;
+}
+
+.gradient-section {
+    background: #00b7bd;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #f2fcfe, #00b7bd);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #f2fcfe, #00b7bd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+padding: 5px;
+}
+
+.woman-image-section {
+    background-color: #f5f5f5;
+    padding: 15px;
+    margin: 20px 15px 0 15px; 
+}
+
+.table-section {
+    margin-top: 1rem;
+}
